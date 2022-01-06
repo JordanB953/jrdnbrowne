@@ -1,4 +1,10 @@
-### Hi there 👋
+### Howdy howdy!
+
+I'm deeply grateful of all the open source projects I use on a daily basis and want to help contribute to them and hopefully start new ones as well.
+
+I'm committed to this work because I want to see a more abudant and free society where people work on whatever they find interesting and exciting instead of being forced to work a job just to survive.
+
+
 
 <!--
 **jrdnbrowne/jrdnbrowne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
